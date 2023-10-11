@@ -1,0 +1,31 @@
+.pagination-line{
+    background-color: #e6efff;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 13px;
+    border-radius: 20px;
+    width: 93%;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    box-shadow:   0 4px 4px 0 rgba(190, 188, 188, 0.2);
+}
+.pagination{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.pagination-page{
+    color: black;
+    font-weight: 500;
+}
+
+.pagination-button{
+    color: #0a84f0;
+    border: #0a84f0 solid 1px;
+    border-radius: 5px;
+    margin: 5px;
+}
