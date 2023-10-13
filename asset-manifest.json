@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/car_search/static/css/main.3ba4b954.css",
+    "main.js": "/car_search/static/js/main.b003dd63.js",
+    "static/js/787.2129127b.chunk.js": "/car_search/static/js/787.2129127b.chunk.js",
+    "index.html": "/car_search/index.html",
+    "main.3ba4b954.css.map": "/car_search/static/css/main.3ba4b954.css.map",
+    "main.b003dd63.js.map": "/car_search/static/js/main.b003dd63.js.map",
+    "787.2129127b.chunk.js.map": "/car_search/static/js/787.2129127b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ba4b954.css",
+    "static/js/main.b003dd63.js"
+  ]
+}
